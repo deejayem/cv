@@ -2,7 +2,7 @@
 - company: i-nexus Strategy Execution Software
   position: Senior Java Developer
   duration: March 2019 &ndash; Present
-  summary: TODO	<ul class="resume-item-list"><li>TODO</li></ul>
+  summary: As part of as scrum team, modernising and expanding the company's web platform, using a test-driven approach where possible, including:<ul class="resume-item-list"><li>Migrating existing functionality from a monolith into a microservice, with a graph database (ArangoDB) for storage, and using asynchronous messaging, to improve performance and reduce code complexity</li><li>Developing a greenfield application to provide customer executives with an overview of corporate data, using React, Spring Boot, GraphQL, Java/Kotlin</li><li>Integration with Keycloak, to provide authentication/single-sign on across a suite of applications</li><li>Investigating and fixing performance problems</li><li>Mentoring other developers</li><li>Maintaining and updating development infrastructure</li></ul>
 
 - company: Personal Touch Financial Services
   position: Java Developer
@@ -22,7 +22,7 @@
 - company: Practical Law Company
   position: Junior Software Developer
   duration: August 2007 &ndash; August 2008
-  summary: <ul class="resume-item-list"><li>Working on an existing web application back-end in Java (along with PL/SQL and XSLT), primarily in the areas of caching, performance, localisation, authorisation and authentication</li><li>Creation of a fault-tolerant message passing/queuing system</li><li>Creation of a performance testing framework using Python</li><li>Developing system administration and performance monitoring scripts in Perl</li><li>Managing builds/releases to development environments, and enhancing build scripts</li></ul>
+  summary: <ul class="resume-item-list"><li>Working on an existing web application back-end in Java (along with PL/SQL and XSLT), primarily in the areas of caching, performance, localisation, authorisation and authentication</li><li>Creation of a fault-tolerant message broker</li><li>Creation of a performance testing framework using Python</li><li>Developing system administration and performance monitoring scripts in Perl</li><li>Managing builds/releases to development environments, and enhancing build scripts</li></ul>
 
 - company: John Morgan Conveyors
   position: Book Keeper
