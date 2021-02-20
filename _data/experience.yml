@@ -7,7 +7,7 @@
 - company: Personal Touch Financial Services
   position: Java Developer
   duration: March 2018 &ndash; March 2019
-  summary: <ul class="resume-item-list"><li>Fixing bugs and adding features to an existing Java web application</li><li>Developing a standalone import tool, as part of a major data migration project, that was able to verify and import large quantities of data in a short space of time</li><li>Advocating for and implementing process improvements, such as<ul><li>Continuous Integration</li><li>Better automated testing</li><li>Automated database migrations</li></ul></li></ul>
+  summary: <ul class="resume-item-list"><li>Fixing bugs and adding features to an existing Java web application</li><li>Developing a standalone import tool, as part of a major data migration project, that was able to validate and import large quantities of data in a short space of time</li><li>Advocating for and implementing process improvements, such as<ul><li>Continuous Integration</li><li>Better automated testing</li><li>Automated database migrations</li></ul></li></ul>
 
 - company: Dion Global Solutions (UK)
   position: Software Developer
