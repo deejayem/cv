@@ -22,7 +22,7 @@
 - company: Practical Law Company
   position: Junior Software Developer
   duration: August 2007 &ndash; August 2008
-  summary: <ul class="resume-item-list"><li>Working on an existing web application back-end in Java (along with PL/SQL and XSLT), primarily in the areas of caching, performance, localisation, authorisation and authentication</li><li>Creation of a fault-tolerant message passing/queuing system<li></li>Creation of a performance testing framework using Python</li><li>Developing system administration and performance monitoring scripts in Perl</li><li>Managing builds/releases to development environments, and enhancing build scripts</li></ul>
+  summary: <ul class="resume-item-list"><li>Working on an existing web application back-end in Java (along with PL/SQL and XSLT), primarily in the areas of caching, performance, localisation, authorisation and authentication</li><li>Creation of a fault-tolerant message passing/queuing system</li><li>Creation of a performance testing framework using Python</li><li>Developing system administration and performance monitoring scripts in Perl</li><li>Managing builds/releases to development environments, and enhancing build scripts</li></ul>
 
 - company: John Morgan Conveyors
   position: Book Keeper
