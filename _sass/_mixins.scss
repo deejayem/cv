@@ -66,7 +66,7 @@
 
 @mixin sans_bold {
   @include sans;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 @mixin sans_extrabold {
@@ -101,3 +101,4 @@
   border-bottom: 1px solid #c7c7c7;
   padding: .2rem 0 .2rem;
 }
+
