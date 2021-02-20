@@ -66,8 +66,10 @@
     }
   }
 
-  .executive-summary {
-    @include media_screen_larger_than_mobile { font-size: 1.125rem; }
+  @media only screen {
+    .executive-summary {
+        @include media_screen_larger_than_mobile { font-size: 1.125rem; }
+    }
   }
 }
 
