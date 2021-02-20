@@ -44,10 +44,6 @@
   @media (min-width: 600px) { @content; }
 }
 
-@mixin media_screen_larger_than_mobile {
-  @media only screen and (min-width: 600px) { @content; }
-}
-
 @mixin media_mobile {
   @media (max-width: 600px) { @content; }
 }
