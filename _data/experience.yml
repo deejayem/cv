@@ -7,24 +7,24 @@
 - company: Personal Touch Financial Services
   position: Java Developer
   duration: March 2018 &ndash; March 2019
-  summary: TODO
+  summary: <ul class="resume-item-list"><li>Fixing bugs and adding features to an existing Java web application</li><li>Developing a standalone import tool, as part of a major data migration project, that was able to verify and import large quantities of data in a short space of time</li><li>Advocating for and implementing process improvements, such as<ul><li>Continuous Integration</li><li>Better automated testing</li><li>Automated database migrations</li></ul></li></ul>
 
 - company: Dion Global Solutions (UK)
   position: Software Developer
   duration: December 2010 &ndash; March 2018
-  summary: TODO
+  summary: Working on a variety of software projects (primarily in Java, as well as PL/SQL and Python) as part of an agile team. These included: <ul class="resume-item-list><li>TODO</li></ul>
 
 - company: Holy Trinity Church, Heath Town
   position: Administrative Assistant/Secretary
   duration: June 2009 &ndash; September 2009
-  summary: TODO
+  summary: Performing various administrative tasks to assist with the day-to-day running of the church.
 
 - company: Practical Law Company
   position: Junior Software Developer
   duration: August 2007 &ndash; August 2008
-  summary: TODO
+  summary: <ul class="resume-item-list><li>Working on an existing web application back-end in Java (along with PL/SQL and XSLT), primarily in the areas of caching, performance, localisation, authorisation and authentication</li></li>Creation of a fault-tolerant message passing/queuing system<li></li>Creation of a performance testing framework using Python<li></li>Developing system administration and performance monitoring scripts in Perl<li></li>Managing builds/releases to development environments, and enhancing build scripts</li></ul>
 
 - company: John Morgan Conveyors
   position: Book Keeper
   duration: July 2003 &ndash; August 2007, September 2008 &ndash September 2009
-  summary: TODO
+  summary: Carrying out duties including typing, managing sales and purchases ledgers, reconciliation at month end and payroll administration.
