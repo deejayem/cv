@@ -1,16 +1,14 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
+- project: Google Summer of Code, "Qualudis - a QA tool for Paludis (Gentoo Linux)"
+  role: Student
+  duration: 2006
+  description: Working an a quality assurance/testing tool for Gentoo Linux, written in C++.
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Gentoo Linux
+  role: x86 Arch Tester
+  duration: 2006 &mdash; 2007
+  description: Testing and bug fixing for Gentoo Linux's x86 port, as well as writing documentation.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: FreeBSD
+  role: VirtualBox Team Member
+  duration: 2012 &mdash; 2013
+  description: Fixing compilation failures and bugs, caused by new versions of VirtualBox or FreeBSD.
