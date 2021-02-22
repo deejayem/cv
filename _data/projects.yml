@@ -1,7 +1,7 @@
 - project: Google Summer of Code, "Qualudis - a QA tool for Paludis (Gentoo Linux)"
   role: Student
   duration: 2006
-  description: Working an a quality assurance/testing tool for Gentoo Linux, written in C++.
+  description: Working on a quality assurance/testing tool for Gentoo Linux, written in C++.
 
 - project: Gentoo Linux
   role: x86 Arch Tester

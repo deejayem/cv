@@ -2,12 +2,12 @@
 - company: i-nexus Strategy Execution Software
   position: Senior Java Developer
   duration: March 2019 &ndash; Present
-  summary: Modernising and expanding the company's web platform, using a test-driven approach where possible, as part of a scrum team, including:<ul class="resume-item-list"><li>Migrating existing functionality from a monolith into a microservice, with a graph database (ArangoDB) for storage, and using asynchronous messaging, to improve performance and reduce code complexity</li><li>Developing a greenfield application to provide customer executives with an overview of corporate data, using React, Spring Boot, GraphQL and Java/Kotlin</li><li>Integrating with an identity and access management system (Keycloak), to provide authentication/single-sign on and authorisation across a suite of applications</li><li>Investigating and fixing performance problems</li><li>Mentoring other developers</li><li>Maintaining and updating development infrastructure</li><li>Taking on scrum master and hiring responsibilities (after our full-time scrum master was made redundant)</ul>
+  summary: Modernising and expanding the company's web-based platform, using a test-driven approach where possible, including:<ul class="resume-item-list"><li>Migrating existing functionality from a monolith into a microservice, with a graph database (ArangoDB) for storage, and using asynchronous messaging, to improve performance and reduce code complexity</li><li>Developing a greenfield application to provide customer executives with an overview of corporate data, using React, Spring Boot, GraphQL, Java/Kotlin and MySQL</li><li>Integrating with an identity and access management system (Keycloak), to provide authentication/single-sign on and authorisation across a suite of applications</li><li>Investigating and fixing performance problems</li><li>Mentoring other developers</li><li>Maintaining and updating development infrastructure</li><li>Taking on scrum master and hiring responsibilities (after our full-time scrum master was made redundant)</ul>
 
 - company: Personal Touch Financial Services
   position: Java Developer
   duration: March 2018 &ndash; March 2019
-  summary: <ul class="resume-item-list"><li>Fixing bugs and adding features to an existing Java web application</li><li>Developing a stand-alone import tool, as part of a major data migration project, that was able to validate and import large quantities of data in a short space of time</li><li>Advocating for and implementing process improvements, such as<ul><li>Continuous Integration</li><li>Better automated testing</li><li>Automated database migrations</li></ul></li></ul>
+  summary: <ul class="resume-item-list"><li>Fixing bugs and adding features to an existing Java and MySQL web application</li><li>Developing a stand-alone import tool, as part of a major data migration project, that was able to validate and import large quantities of data in a short space of time</li><li>Advocating for and implementing process improvements, such as<ul><li>Continuous Integration</li><li>Better automated testing</li><li>Automated database migrations</li></ul></li></ul>
 
 - company: Dion Global Solutions (UK)
   position: Software Developer
@@ -22,9 +22,9 @@
 - company: Practical Law Company
   position: Junior Software Developer
   duration: August 2007 &ndash; August 2008
-  summary: <ul class="resume-item-list"><li>Working on an existing web application back-end in Java (along with PL/SQL and XSLT), primarily in the areas of caching, performance, localisation, authorisation and authentication</li><li>Creation of a fault-tolerant message broker</li><li>Creation of a performance testing framework using Python</li><li>Developing system administration and performance monitoring scripts in Perl</li><li>Managing builds/releases to development environments, and enhancing build scripts</li></ul>
+  summary: <ul class="resume-item-list"><li>Working on an existing web application in Java (along with PL/SQL and XSLT), primarily in the areas of caching, performance, localisation, authorisation and authentication</li><li>Creation of a fault-tolerant message broker</li><li>Creation of a performance testing framework using Python</li><li>Developing system administration and performance monitoring scripts in Perl</li><li>Managing builds/releases to development environments, and enhancing build scripts</li></ul>
 
 - company: John Morgan Conveyors
   position: Book Keeper
   duration: July 2003 &ndash; August 2007, September 2008 &ndash; September 2009
-  summary: Carrying out duties including typing, managing sales and purchases ledgers, reconciliation at month end and payroll administration.
+  summary: Carrying out duties including typing, managing sales and purchases ledgers, reconciliation at month-end and payroll administration.
