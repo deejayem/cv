@@ -1,14 +1,15 @@
-- project: Google Summer of Code, "Qualudis - a QA tool for Paludis (Gentoo Linux)"
-  role: Student
-  duration: 2006
-  description: Working on a quality assurance/testing tool for Gentoo Linux, written in C++.
+- project: FreeBSD
+  role: VirtualBox Team Member
+  duration: 2012 &ndash; 2013
+  description: Fixing compilation failures and bugs, caused by new versions of VirtualBox or FreeBSD.
 
 - project: Gentoo Linux
   role: x86 Arch Tester
   duration: 2006 &ndash; 2007
   description: Testing and bug fixing for Gentoo Linux's x86 port, as well as writing documentation.
 
-- project: FreeBSD
-  role: VirtualBox Team Member
-  duration: 2012 &ndash; 2013
-  description: Fixing compilation failures and bugs, caused by new versions of VirtualBox or FreeBSD.
+- project: Google Summer of Code, "Qualudis - a QA tool for Paludis (Gentoo Linux)"
+  role: Student
+  duration: 2006
+  description: Working on a quality assurance/testing tool for Gentoo Linux, written in C++.
+
