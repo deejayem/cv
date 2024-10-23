@@ -1,12 +1,12 @@
 # Skills
 - skill: Programming Languages
-  description: Java, Kotlin, Clojure, Python, Perl
+  description: Clojure, Java, Kotlin, Python, Perl
 
 - skill: Web Development
-  description: HTML, CSS, JavaScript, TypesSript, React
+  description: HTML, CSS, JavaScript
 
 - skill: Databases
-  description: Relational databases (Oracle, MySQL), graph databases (ArangoDB)
+  description: Relational databases (Oracle, MySQL, PostgreSQL), graph databases (ArangoDB)
 
 - skill: Other
-  description: Test-Driven Development, Git, Linux/Unix, Docker, DevOps
+  description: Git, Linux/Unix, Docker, Elasticsearch, Redis, AWS, DevOps, Test-Driven Development
