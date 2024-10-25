@@ -1,3 +1,8 @@
+- project: NixOS
+  role: Nixpkgs maintainer
+  duration: 2022 &ndash; Present
+  description: Maintaining packages in the Nixpkgs package collection, ensuring they are kept up to date and continue to work. I have also made a small contribution to NixOS, and review PRs when time allows.
+
 - project: FreeBSD
   role: VirtualBox Team Member
   duration: 2012 &ndash; 2013
