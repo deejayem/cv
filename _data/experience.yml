@@ -1,8 +1,8 @@
 # Jobs
 - company: i-nexus Strategy Execution Software
   position: Senior Java Developer
-  duration: March 2019 &ndash; Present
-  summary: Modernising and expanding the company's web-based platform, using a test-driven approach where possible, including:<ul class="resume-item-list"><li>Migrating existing functionality from a monolith into a microservice, with a graph database (ArangoDB) for storage, and using asynchronous messaging, to improve performance and reduce code complexity</li><li>Developing a greenfield application to provide customer executives with an overview of corporate data, using React, Spring Boot, GraphQL, Java/Kotlin and MySQL</li><li>Integrating with an identity and access management system (Keycloak), to provide authentication/single-sign on and authorisation across a suite of applications</li><li>Investigating and fixing performance problems</li><li>Mentoring other developers</li><li>Maintaining and updating development infrastructure</li><li>Taking on scrum master and hiring responsibilities (after our full-time scrum master was made redundant)</ul>
+  duration: March 2019 &ndash; May 2021
+  summary: Modernising and expanding the company's web-based platform, using a test-driven approach where possible, including:<ul class="resume-item-list"><li>Migrating existing functionality from a monolith into a microservice, using asynchronous messaging and with a graph database (ArangoDB) for storage, to improve performance and reduce code complexity</li><li>Developing a greenfield application to provide customer executives with an overview of corporate data, using React, Spring Boot, GraphQL, Java/Kotlin and MySQL</li><li>Integrating with an identity and access management system (Keycloak), to provide authentication/single-sign on and authorisation across a suite of applications</li><li>Investigating and fixing performance problems</li><li>Mentoring other developers</li><li>Maintaining and updating development infrastructure</li><li>Taking on scrum master and hiring responsibilities (after our full-time scrum master was made redundant)</ul>
 
 - company: Personal Touch Financial Services
   position: Java Developer
@@ -27,4 +27,4 @@
 - company: John Morgan Conveyors
   position: Book Keeper
   duration: July 2003 &ndash; August 2007, September 2008 &ndash; September 2009
-  summary: Carrying out duties including typing, managing sales and purchases ledgers, reconciliation at month-end and payroll administration.
+  summary: Typing invoices and quotations, managing sales and purchases ledgers, reconciliation at month-end and payroll administration.
