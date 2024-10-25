@@ -6,7 +6,7 @@
   description: HTML, CSS, JavaScript
 
 - skill: Databases
-  description: Relational databases (Oracle, MySQL, PostgreSQL), graph databases (ArangoDB)
+  description: Relational databases (Oracle, MySQL, PostgreSQL), graph databases (ArangoDB), document databases (DynamoDB)
 
 - skill: Other
   description: Git, Linux/Unix, Docker, Elasticsearch, Redis, AWS, DevOps, Test-Driven Development
