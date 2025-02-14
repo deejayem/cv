@@ -2,7 +2,7 @@
 - company: OnTheMarket
   position: Software Engineer
   duration: May 2021 &ndash; Present
-  summary: <ul class="resume-item-list"><li>Working on the backend of the company's main website and its supporting services, all written in Clojure. This regularly received more than one million daily visits and sent 200 million emails per month.</li><li>Working with data in PostgreSQL, Elasticsearch, Redis, and DynamoDB, and communicating between services using SQS queues and Kinesis streams.<li>Creating and updating APIs to be consumed by third parties and our own mobile apps.</li><li>Creating a new microservice, using AWS Lambda and API Gateway.</li><li>Deploying and monitoring applications and services.</li><li>Refactoring and simplifying complex code.</li><li>Investigating and fixing performance issues, both to increase speed and reduce memory usage.</li></ul>
+  summary: <ul class="resume-item-list"><li>Working on the backend of the company's main website and its supporting services, all written in Clojure. This regularly received more than one million daily visits and sent 200 million emails per month.</li><li>Interacting with data in PostgreSQL, Elasticsearch, Redis, and DynamoDB, and communicating between services using SQS queues and Kinesis streams.<li>Creating and updating APIs to be consumed by third parties and our own mobile apps.</li><li>Creating a new microservice, using AWS Lambda and API Gateway.</li><li>Deploying and monitoring applications and services.</li><li>Refactoring and simplifying complex code.</li><li>Investigating and fixing performance issues, both to increase speed and reduce memory usage.</li></ul>
 
 - company: i-nexus Strategy Execution Software
   position: Senior Java Developer
